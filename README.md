@@ -13,3 +13,9 @@ _собирает любые коммиты из целевой ветки, ко
 https://github.com/GnuriaN/format-README
 
 ![Город](https://proprikol.ru/wp-content/uploads/2020/08/kartinki-kiberpank-46.jpg "Город")
+
+### Рецепт хорошего обучения
+
+- 70% это практика
+- 20% это наставничество
+- 10% это теория
